@@ -13,4 +13,3 @@ class Circle{
         System.out.println("Area of circle with radius " +c.r+ " is: " +c.area());
     }
 }
-
